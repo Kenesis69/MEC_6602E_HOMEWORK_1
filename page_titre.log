@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.25)  23 SEP 2024 10:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.25)  23 SEP 2024 16:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -60,40 +60,91 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen149
 \Gm@layoutvoffset=\dimen150
 \Gm@dimlist=\toks18
- (C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+ (C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2024/08/20 v0.6b Insert pages of external PDF documents (AM)
+ (C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count196
+\calc@Bcount=\count197
+\calc@Adimen=\dimen151
+\calc@Bdimen=\dimen152
+\calc@Askip=\skip50
+\calc@Bskip=\skip51
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count198
+\calc@Cskip=\skip52
+) (C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen153
+\ESO@tempdimb=\dimen154
+ (C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+))
+\AM@pagewidth=\dimen155
+\AM@pageheight=\dimen156
+\AM@fboxrule=\dimen157
+ (C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2024/08/20 v0.6b Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count199
+\AM@pagebox=\box51
+\AM@global@opts=\toks19
+\AM@pagecnt=\count266
+\AM@toc@title=\toks20
+\AM@lof@heading=\toks21
+\c@AM@survey=\count267
+\AM@templatesizebox=\box52
+) (C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-10-10 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count196
-\l__pdf_internal_box=\box51
+\l__color_backend_stack_int=\count268
+\l__pdf_internal_box=\box53
 ) (page_titre.aux)
 \openout1 = `page_titre.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
  (C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count197
-\scratchdimen=\dimen151
-\scratchbox=\box52
-\nofMPsegments=\count198
-\nofMParguments=\count199
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count266
-\MPscratchDim=\dimen152
-\MPnumerator=\count267
-\makeMPintoPDFobject=\count268
-\everyMPtoPDFconversion=\toks20
+\scratchcounter=\count269
+\scratchdimen=\dimen158
+\scratchbox=\box54
+\nofMPsegments=\count270
+\nofMParguments=\count271
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count272
+\MPscratchDim=\dimen159
+\MPnumerator=\count273
+\makeMPintoPDFobject=\count274
+\everyMPtoPDFconversion=\toks23
 ) (C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -134,31 +185,468 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+(C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+ (C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+ (C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
 <polytechnique-signature-rgb-gauche-fr.png, id=1, 185.69376pt x 76.285pt>
 File: polytechnique-signature-rgb-gauche-fr.png Graphic file (type png)
 <use polytechnique-signature-rgb-gauche-fr.png>
-Package pdftex.def Info: polytechnique-signature-rgb-gauche-fr.png  used on input line 34.
+Package pdftex.def Info: polytechnique-signature-rgb-gauche-fr.png  used on input line 35.
 (pdftex.def)             Requested size: 120.92421pt x 49.67776pt.
+ [1
+
+{C:/Users/IdMax Inc/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./polytechnique-signature-rgb-gauche-fr.png>]
+
+pdfTeX warning: pdflatex (file ./question 1a lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<question 1a lite.pdf, id=10, 614.295pt x 794.97pt>
+File: question 1a lite.pdf Graphic file (type pdf)
+<use question 1a lite.pdf>
+Package pdftex.def Info: question 1a lite.pdf  used on input line 39.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./question 1a lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+File: question 1a lite.pdf Graphic file (type pdf)
+<use question 1a lite.pdf>
+Package pdftex.def Info: question 1a lite.pdf  used on input line 39.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./question 1a lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./question 1a lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<question 1a lite.pdf, id=13, page=1, 614.295pt x 794.97pt>
+File: question 1a lite.pdf Graphic file (type pdf)
+<use question 1a lite.pdf, page 1>
+Package pdftex.def Info: question 1a lite.pdf , page1 used on input line 39.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: question 1a lite.pdf Graphic file (type pdf)
+<use question 1a lite.pdf, page 1>
+Package pdftex.def Info: question 1a lite.pdf , page1 used on input line 39.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1a lite.pdf Graphic file (type pdf)
+<use question 1a lite.pdf, page 1>
+Package pdftex.def Info: question 1a lite.pdf , page1 used on input line 39.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1a lite.pdf Graphic file (type pdf)
+<use question 1a lite.pdf, page 1>
+Package pdftex.def Info: question 1a lite.pdf , page1 used on input line 39.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1a lite.pdf Graphic file (type pdf)
+<use question 1a lite.pdf, page 1>
+Package pdftex.def Info: question 1a lite.pdf , page1 used on input line 39.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 [1
 
-{C:/Users/IdMax Inc/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./polytechnique-signature-rgb-gauche-fr.png>] (page_titre.aux)
+ <./question 1a lite.pdf>]
+
+pdfTeX warning: pdflatex (file ./question 1a lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<question 1a lite.pdf, id=18, page=2, 614.295pt x 794.97pt>
+File: question 1a lite.pdf Graphic file (type pdf)
+<use question 1a lite.pdf, page 2>
+Package pdftex.def Info: question 1a lite.pdf , page2 used on input line 39.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1a lite.pdf Graphic file (type pdf)
+<use question 1a lite.pdf, page 2>
+Package pdftex.def Info: question 1a lite.pdf , page2 used on input line 39.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1a lite.pdf Graphic file (type pdf)
+<use question 1a lite.pdf, page 2>
+Package pdftex.def Info: question 1a lite.pdf , page2 used on input line 39.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[2
+
+ <./question 1a lite.pdf>]
+
+pdfTeX warning: pdflatex (file ./question 1a lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<question 1a lite.pdf, id=25, page=3, 614.295pt x 794.97pt>
+File: question 1a lite.pdf Graphic file (type pdf)
+<use question 1a lite.pdf, page 3>
+Package pdftex.def Info: question 1a lite.pdf , page3 used on input line 39.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1a lite.pdf Graphic file (type pdf)
+<use question 1a lite.pdf, page 3>
+Package pdftex.def Info: question 1a lite.pdf , page3 used on input line 39.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1a lite.pdf Graphic file (type pdf)
+<use question 1a lite.pdf, page 3>
+Package pdftex.def Info: question 1a lite.pdf , page3 used on input line 39.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[3
+
+ <./question 1a lite.pdf>]
+
+pdfTeX warning: pdflatex (file ./question 1a lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<question 1a lite.pdf, id=29, page=4, 614.295pt x 794.97pt>
+File: question 1a lite.pdf Graphic file (type pdf)
+<use question 1a lite.pdf, page 4>
+Package pdftex.def Info: question 1a lite.pdf , page4 used on input line 39.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1a lite.pdf Graphic file (type pdf)
+<use question 1a lite.pdf, page 4>
+Package pdftex.def Info: question 1a lite.pdf , page4 used on input line 39.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1a lite.pdf Graphic file (type pdf)
+<use question 1a lite.pdf, page 4>
+Package pdftex.def Info: question 1a lite.pdf , page4 used on input line 39.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[4
+
+ <./question 1a lite.pdf>]
+
+pdfTeX warning: pdflatex (file ./question 1c lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<question 1c lite.pdf, id=33, 614.295pt x 794.97pt>
+File: question 1c lite.pdf Graphic file (type pdf)
+<use question 1c lite.pdf>
+Package pdftex.def Info: question 1c lite.pdf  used on input line 40.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./question 1c lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+File: question 1c lite.pdf Graphic file (type pdf)
+<use question 1c lite.pdf>
+Package pdftex.def Info: question 1c lite.pdf  used on input line 40.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./question 1c lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./question 1c lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<question 1c lite.pdf, id=36, page=1, 614.295pt x 794.97pt>
+File: question 1c lite.pdf Graphic file (type pdf)
+<use question 1c lite.pdf, page 1>
+Package pdftex.def Info: question 1c lite.pdf , page1 used on input line 40.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: question 1c lite.pdf Graphic file (type pdf)
+<use question 1c lite.pdf, page 1>
+Package pdftex.def Info: question 1c lite.pdf , page1 used on input line 40.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1c lite.pdf Graphic file (type pdf)
+<use question 1c lite.pdf, page 1>
+Package pdftex.def Info: question 1c lite.pdf , page1 used on input line 40.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1c lite.pdf Graphic file (type pdf)
+<use question 1c lite.pdf, page 1>
+Package pdftex.def Info: question 1c lite.pdf , page1 used on input line 40.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1c lite.pdf Graphic file (type pdf)
+<use question 1c lite.pdf, page 1>
+Package pdftex.def Info: question 1c lite.pdf , page1 used on input line 40.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[5
+
+ <./question 1c lite.pdf>]
+
+pdfTeX warning: pdflatex (file ./question 1c lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<question 1c lite.pdf, id=42, page=2, 614.295pt x 794.97pt>
+File: question 1c lite.pdf Graphic file (type pdf)
+<use question 1c lite.pdf, page 2>
+Package pdftex.def Info: question 1c lite.pdf , page2 used on input line 40.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1c lite.pdf Graphic file (type pdf)
+<use question 1c lite.pdf, page 2>
+Package pdftex.def Info: question 1c lite.pdf , page2 used on input line 40.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1c lite.pdf Graphic file (type pdf)
+<use question 1c lite.pdf, page 2>
+Package pdftex.def Info: question 1c lite.pdf , page2 used on input line 40.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[6
+
+ <./question 1c lite.pdf>]
+
+pdfTeX warning: pdflatex (file ./question 1c lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<question 1c lite.pdf, id=48, page=3, 614.295pt x 794.97pt>
+File: question 1c lite.pdf Graphic file (type pdf)
+<use question 1c lite.pdf, page 3>
+Package pdftex.def Info: question 1c lite.pdf , page3 used on input line 40.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1c lite.pdf Graphic file (type pdf)
+<use question 1c lite.pdf, page 3>
+Package pdftex.def Info: question 1c lite.pdf , page3 used on input line 40.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1c lite.pdf Graphic file (type pdf)
+<use question 1c lite.pdf, page 3>
+Package pdftex.def Info: question 1c lite.pdf , page3 used on input line 40.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[7
+
+ <./question 1c lite.pdf>]
+
+pdfTeX warning: pdflatex (file ./question 1c lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<question 1c lite.pdf, id=53, page=4, 614.295pt x 794.97pt>
+File: question 1c lite.pdf Graphic file (type pdf)
+<use question 1c lite.pdf, page 4>
+Package pdftex.def Info: question 1c lite.pdf , page4 used on input line 40.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1c lite.pdf Graphic file (type pdf)
+<use question 1c lite.pdf, page 4>
+Package pdftex.def Info: question 1c lite.pdf , page4 used on input line 40.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1c lite.pdf Graphic file (type pdf)
+<use question 1c lite.pdf, page 4>
+Package pdftex.def Info: question 1c lite.pdf , page4 used on input line 40.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[8
+
+ <./question 1c lite.pdf>]
+
+pdfTeX warning: pdflatex (file ./question 1e lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<question 1e lite.pdf, id=58, 614.295pt x 794.97pt>
+File: question 1e lite.pdf Graphic file (type pdf)
+<use question 1e lite.pdf>
+Package pdftex.def Info: question 1e lite.pdf  used on input line 41.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./question 1e lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+File: question 1e lite.pdf Graphic file (type pdf)
+<use question 1e lite.pdf>
+Package pdftex.def Info: question 1e lite.pdf  used on input line 41.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./question 1e lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./question 1e lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<question 1e lite.pdf, id=61, page=1, 614.295pt x 794.97pt>
+File: question 1e lite.pdf Graphic file (type pdf)
+<use question 1e lite.pdf, page 1>
+Package pdftex.def Info: question 1e lite.pdf , page1 used on input line 41.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: question 1e lite.pdf Graphic file (type pdf)
+<use question 1e lite.pdf, page 1>
+Package pdftex.def Info: question 1e lite.pdf , page1 used on input line 41.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1e lite.pdf Graphic file (type pdf)
+<use question 1e lite.pdf, page 1>
+Package pdftex.def Info: question 1e lite.pdf , page1 used on input line 41.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1e lite.pdf Graphic file (type pdf)
+<use question 1e lite.pdf, page 1>
+Package pdftex.def Info: question 1e lite.pdf , page1 used on input line 41.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1e lite.pdf Graphic file (type pdf)
+<use question 1e lite.pdf, page 1>
+Package pdftex.def Info: question 1e lite.pdf , page1 used on input line 41.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[9
+
+ <./question 1e lite.pdf>]
+
+pdfTeX warning: pdflatex (file ./question 1e lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<question 1e lite.pdf, id=66, page=2, 614.295pt x 794.97pt>
+File: question 1e lite.pdf Graphic file (type pdf)
+<use question 1e lite.pdf, page 2>
+Package pdftex.def Info: question 1e lite.pdf , page2 used on input line 41.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1e lite.pdf Graphic file (type pdf)
+<use question 1e lite.pdf, page 2>
+Package pdftex.def Info: question 1e lite.pdf , page2 used on input line 41.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1e lite.pdf Graphic file (type pdf)
+<use question 1e lite.pdf, page 2>
+Package pdftex.def Info: question 1e lite.pdf , page2 used on input line 41.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[10
+
+ <./question 1e lite.pdf>]
+
+pdfTeX warning: pdflatex (file ./question 1e lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<question 1e lite.pdf, id=73, page=3, 614.295pt x 794.97pt>
+File: question 1e lite.pdf Graphic file (type pdf)
+<use question 1e lite.pdf, page 3>
+Package pdftex.def Info: question 1e lite.pdf , page3 used on input line 41.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1e lite.pdf Graphic file (type pdf)
+<use question 1e lite.pdf, page 3>
+Package pdftex.def Info: question 1e lite.pdf , page3 used on input line 41.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1e lite.pdf Graphic file (type pdf)
+<use question 1e lite.pdf, page 3>
+Package pdftex.def Info: question 1e lite.pdf , page3 used on input line 41.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[11
+
+ <./question 1e lite.pdf>]
+
+pdfTeX warning: pdflatex (file ./question 1e lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<question 1e lite.pdf, id=77, page=4, 614.295pt x 794.97pt>
+File: question 1e lite.pdf Graphic file (type pdf)
+<use question 1e lite.pdf, page 4>
+Package pdftex.def Info: question 1e lite.pdf , page4 used on input line 41.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1e lite.pdf Graphic file (type pdf)
+<use question 1e lite.pdf, page 4>
+Package pdftex.def Info: question 1e lite.pdf , page4 used on input line 41.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1e lite.pdf Graphic file (type pdf)
+<use question 1e lite.pdf, page 4>
+Package pdftex.def Info: question 1e lite.pdf , page4 used on input line 41.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[12
+
+ <./question 1e lite.pdf>]
+
+pdfTeX warning: pdflatex (file ./question 1g lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<question 1g lite.pdf, id=82, 614.295pt x 794.97pt>
+File: question 1g lite.pdf Graphic file (type pdf)
+<use question 1g lite.pdf>
+Package pdftex.def Info: question 1g lite.pdf  used on input line 42.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./question 1g lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+File: question 1g lite.pdf Graphic file (type pdf)
+<use question 1g lite.pdf>
+Package pdftex.def Info: question 1g lite.pdf  used on input line 42.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./question 1g lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./question 1g lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<question 1g lite.pdf, id=85, page=1, 614.295pt x 794.97pt>
+File: question 1g lite.pdf Graphic file (type pdf)
+<use question 1g lite.pdf, page 1>
+Package pdftex.def Info: question 1g lite.pdf , page1 used on input line 42.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: question 1g lite.pdf Graphic file (type pdf)
+<use question 1g lite.pdf, page 1>
+Package pdftex.def Info: question 1g lite.pdf , page1 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1g lite.pdf Graphic file (type pdf)
+<use question 1g lite.pdf, page 1>
+Package pdftex.def Info: question 1g lite.pdf , page1 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1g lite.pdf Graphic file (type pdf)
+<use question 1g lite.pdf, page 1>
+Package pdftex.def Info: question 1g lite.pdf , page1 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1g lite.pdf Graphic file (type pdf)
+<use question 1g lite.pdf, page 1>
+Package pdftex.def Info: question 1g lite.pdf , page1 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[13
+
+ <./question 1g lite.pdf>]
+
+pdfTeX warning: pdflatex (file ./question 1g lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<question 1g lite.pdf, id=90, page=2, 614.295pt x 794.97pt>
+File: question 1g lite.pdf Graphic file (type pdf)
+<use question 1g lite.pdf, page 2>
+Package pdftex.def Info: question 1g lite.pdf , page2 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1g lite.pdf Graphic file (type pdf)
+<use question 1g lite.pdf, page 2>
+Package pdftex.def Info: question 1g lite.pdf , page2 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1g lite.pdf Graphic file (type pdf)
+<use question 1g lite.pdf, page 2>
+Package pdftex.def Info: question 1g lite.pdf , page2 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[14
+
+ <./question 1g lite.pdf>]
+
+pdfTeX warning: pdflatex (file ./question 1g lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<question 1g lite.pdf, id=94, page=3, 614.295pt x 794.97pt>
+File: question 1g lite.pdf Graphic file (type pdf)
+<use question 1g lite.pdf, page 3>
+Package pdftex.def Info: question 1g lite.pdf , page3 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1g lite.pdf Graphic file (type pdf)
+<use question 1g lite.pdf, page 3>
+Package pdftex.def Info: question 1g lite.pdf , page3 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1g lite.pdf Graphic file (type pdf)
+<use question 1g lite.pdf, page 3>
+Package pdftex.def Info: question 1g lite.pdf , page3 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[15
+
+ <./question 1g lite.pdf>]
+
+pdfTeX warning: pdflatex (file ./question 1g lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<question 1g lite.pdf, id=98, page=4, 614.295pt x 794.97pt>
+File: question 1g lite.pdf Graphic file (type pdf)
+<use question 1g lite.pdf, page 4>
+Package pdftex.def Info: question 1g lite.pdf , page4 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1g lite.pdf Graphic file (type pdf)
+<use question 1g lite.pdf, page 4>
+Package pdftex.def Info: question 1g lite.pdf , page4 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1g lite.pdf Graphic file (type pdf)
+<use question 1g lite.pdf, page 4>
+Package pdftex.def Info: question 1g lite.pdf , page4 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[16
+
+ <./question 1g lite.pdf>]
+
+pdfTeX warning: pdflatex (file ./question 1g lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<question 1g lite.pdf, id=102, page=5, 614.295pt x 794.97pt>
+File: question 1g lite.pdf Graphic file (type pdf)
+<use question 1g lite.pdf, page 5>
+Package pdftex.def Info: question 1g lite.pdf , page5 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1g lite.pdf Graphic file (type pdf)
+<use question 1g lite.pdf, page 5>
+Package pdftex.def Info: question 1g lite.pdf , page5 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1g lite.pdf Graphic file (type pdf)
+<use question 1g lite.pdf, page 5>
+Package pdftex.def Info: question 1g lite.pdf , page5 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[17
+
+ <./question 1g lite.pdf>]
+
+pdfTeX warning: pdflatex (file ./question 1g lite.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<question 1g lite.pdf, id=106, page=6, 614.295pt x 794.97pt>
+File: question 1g lite.pdf Graphic file (type pdf)
+<use question 1g lite.pdf, page 6>
+Package pdftex.def Info: question 1g lite.pdf , page6 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1g lite.pdf Graphic file (type pdf)
+<use question 1g lite.pdf, page 6>
+Package pdftex.def Info: question 1g lite.pdf , page6 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: question 1g lite.pdf Graphic file (type pdf)
+<use question 1g lite.pdf, page 6>
+Package pdftex.def Info: question 1g lite.pdf , page6 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[18
+
+ <./question 1g lite.pdf>] (page_titre.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-10>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1842 strings out of 474823
- 30893 string characters out of 5749031
+ 3307 strings out of 474823
+ 55858 string characters out of 5749031
  1922043 words of memory out of 5000000
- 23821 multiletter control sequences out of 15000+600000
+ 25248 multiletter control sequences out of 15000+600000
  559579 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,5n,65p,267b,157s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 68i,17n,75p,267b,427s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/IdMax Inc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/IdMax Inc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on page_titre.pdf (1 page, 33816 bytes).
+Output written on page_titre.pdf (19 pages, 3513361 bytes).
 PDF statistics:
- 19 PDF objects out of 1000 (max. 8388607)
+ 122 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 156 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -31,6 +31,26 @@ INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.s
 INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
 INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT .\page_titre.aux
@@ -45,6 +65,12 @@ INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\ep
 INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
 INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
@@ -58,6 +84,144 @@ INPUT .\polytechnique-signature-rgb-gauche-fr.png
 INPUT .\polytechnique-signature-rgb-gauche-fr.png
 INPUT .\polytechnique-signature-rgb-gauche-fr.png
 INPUT C:\Users\IdMax Inc\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1a lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1c lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1e lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
+INPUT .\question 1g lite.pdf
 INPUT page_titre.aux
 INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
