@@ -1,0 +1,65 @@
+PWD c:\Users\IdMax Inc\Documents\GitHub\MEC_6602E_HOMEWORK_1
+INPUT C:\Users\IdMax Inc\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\IdMax Inc\Documents\GitHub\MEC_6602E_HOMEWORK_1\page_titre.tex
+OUTPUT page_titre.log
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\page_titre.aux
+INPUT .\page_titre.aux
+INPUT page_titre.aux
+OUTPUT page_titre.aux
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\polytechnique-signature-rgb-gauche-fr.png
+INPUT .\polytechnique-signature-rgb-gauche-fr.png
+INPUT .\polytechnique-signature-rgb-gauche-fr.png
+INPUT .\polytechnique-signature-rgb-gauche-fr.png
+OUTPUT page_titre.pdf
+INPUT .\polytechnique-signature-rgb-gauche-fr.png
+INPUT .\polytechnique-signature-rgb-gauche-fr.png
+INPUT .\polytechnique-signature-rgb-gauche-fr.png
+INPUT C:\Users\IdMax Inc\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT page_titre.aux
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT C:\Users\IdMax Inc\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
