@@ -44,7 +44,6 @@ class hybrid1: #7
             self.B = np.zeros(len(u)-4)
             np.fill_diagonal(self.A[1:,:-1],-0.5*cfl) #Fill the lower diagonal
             np.fill_diagonal(self.A[:-1,1:],0.5*cfl) #Fill the upper diagonal
-            # coupling for periodic boundary condition
             self.A[0,-1] = -0.5*cfl
             self.A[-1,0] = 0.5*cfl
 

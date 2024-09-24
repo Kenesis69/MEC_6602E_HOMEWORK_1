@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1727144061 "c:/Users/kamal/OneDrive/PolyTechnique/DESS-MAITRISE/Session 3/MEC6602 - Transonic Aerodynamics/HOMEWORK_1/MEC_6602E_HOMEWORK_1/HOMEWORK_1.tex" "HOMEWORK_1.pdf" "HOMEWORK_1" 1727144072 0
+["pdflatex"] 1727144170 "c:/Users/kamal/OneDrive/PolyTechnique/DESS-MAITRISE/Session 3/MEC6602 - Transonic Aerodynamics/HOMEWORK_1/MEC_6602E_HOMEWORK_1/HOMEWORK_1.tex" "HOMEWORK_1.pdf" "HOMEWORK_1" 1727144181 0
   "C:/Users/kamal/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1727135585 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/kamal/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1677127750 14064 d92dd94feb3892001c5661c9de9856cc ""
   "C:/Users/kamal/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1676059517 10788010 03548b2d8b1eed827c64d19f4f3245cd ""
@@ -82,14 +82,14 @@
   "C:/Users/kamal/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1654690828 10214 de3e21cfc0eccc98ca7f8dac0ef263d2 ""
   "C:/Users/kamal/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/kamal/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "HOMEWORK_1.aux" 1727144071 1077 75ba0f239d2079eec3646541d549d10a "pdflatex"
-  "HOMEWORK_1.out" 1727144071 877 2dfa4b35a62319b0c2ad0554e028e6ae "pdflatex"
-  "HOMEWORK_1.tex" 1727144047 5844 acd6add70d97e3583b8ad77d87695c08 ""
+  "HOMEWORK_1.aux" 1727144181 1077 75ba0f239d2079eec3646541d549d10a "pdflatex"
+  "HOMEWORK_1.out" 1727144181 877 2dfa4b35a62319b0c2ad0554e028e6ae "pdflatex"
+  "HOMEWORK_1.tex" 1727144169 5839 f6461a3e0cc66a167c0ff186c1ff494a ""
   "Numerical analysis comments.pdf" 1727142183 989322 01306e4b070c0664b4649695bfeb2931 ""
   "Question b and d.pdf" 1727136702 754248 0d73a4cb0d5c27c827a2315b07607ed0 ""
   "Question f 0 and 1.pdf" 1727137091 453654 a8ff82ce2fb0ed3cb4a377e2b662a611 ""
   "Question f 0.5.pdf" 1727137083 1568709 9e5414f7dbdaaa9f003e2c8b876ca4cc ""
-  "c:/Users/kamal/OneDrive/PolyTechnique/DESS-MAITRISE/Session 3/MEC6602 - Transonic Aerodynamics/HOMEWORK_1/MEC_6602E_HOMEWORK_1/HOMEWORK_1.tex" 1727144047 5844 acd6add70d97e3583b8ad77d87695c08 ""
+  "c:/Users/kamal/OneDrive/PolyTechnique/DESS-MAITRISE/Session 3/MEC6602 - Transonic Aerodynamics/HOMEWORK_1/MEC_6602E_HOMEWORK_1/HOMEWORK_1.tex" 1727144169 5839 f6461a3e0cc66a167c0ff186c1ff494a ""
   "polytechnique-signature-rgb-gauche-fr.png" 1727135138 8533 47fa5219cb3a32736b32855c62345e60 ""
   "question 1a lite.pdf" 1727135138 751918 c41a5ea1c556ee9ff39989544456af99 ""
   "question 1c lite.pdf" 1726806034 835238 85513fa81a944df442b2448f21cae946 ""
